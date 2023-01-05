@@ -10,7 +10,7 @@ Ce projet n'est pas encore terminé et ne le sera sans doute jamais comme tout m
 ## Auteur(s)
 
 - [@0x2CBB](https://github.com/0x2CBB)
-- Discord : [0x2CB#8856](https://discord.gg/ssdfr)
+- Discord : [0x2CB#8856]
 
 
 ## Installation
