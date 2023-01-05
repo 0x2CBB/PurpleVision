@@ -3,9 +3,11 @@
 
 # PurpleVision 🥤
 
-Voici mon premier projet publique de tool multifonctionnel.
+Voici mon premier projet public de tool multifonctionnel.
 
-Ce projet n'est pas encore terminé et ne le sera sans doute jamais comme tout mes projets :^]
+Ce projet n'est pas encore terminé et ne le sera sans doute jamais comme tous mes projets :^]
+
+⚠️ Toutefois ce logiciel est uniquement à but éducatif, ne l'utilisez pas à des fins malveillantes ! ⚠️ 
 
 ## Auteur(s)
 
@@ -45,4 +47,4 @@ Pour l'installer voici les étapes suivantes :
 
 ## Feedback
 
-Si vous avez des idées de fonctionnalitées que je peux ajouter contactez moi sur discord !
+Si vous avez des idées de fonctionnalités que je peux ajouter contactez-moi sur discord !
