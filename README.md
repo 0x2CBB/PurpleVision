@@ -35,3 +35,6 @@ Pour l'installer voici les étapes suivantes :
 ![App Screenshot](https://media.discordapp.net/attachments/937792375986749521/1060507347782471690/image.png)
 
 
+## Feedback
+
+Si vous avez des idées de fonctionnalité que je peux ajouter contactez moi sur discord !
