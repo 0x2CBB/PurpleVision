@@ -40,7 +40,7 @@ Pour l'installer voici les étapes suivantes :
 
 ## Screenshots
 
-![App Screenshot](https://media.discordapp.net/attachments/937792375986749521/1060507347782471690/image.png)
+![App Screenshot](https://media.discordapp.net/attachments/790189406333173771/1060672116699177020/image.png)
 
 
 ## Feedback
