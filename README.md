@@ -27,6 +27,7 @@ Pour l'installer voici les étapes suivantes :
 - [X]  BruteForce (MD2/4/5, SHA-256, Base64, SHA1, SHA-224, SHA-512, Cisco7...)
 - [X]  Credit Card Validator & Infos
 - [X]  Graphic interface
+- [X]  DB Reader
 
 ## Futur Features
 
