@@ -10,7 +10,7 @@ Ce projet n'est pas encore terminé et ne le sera sans doute jamais comme tout m
 ## Auteur(s)
 
 - [@0x2CBB](https://github.com/0x2CBB)
-- Discord : 0x2CB#8856
+- Discord : [0x2CB#8856](https://discord.gg/ssdfr)
 
 
 ## Installation
@@ -27,7 +27,13 @@ Pour l'installer voici les étapes suivantes :
 - [X]  BruteForce (MD2/4/5, SHA-256, Base64, SHA1, SHA-224, SHA-512, Cisco7...)
 - [X]  Credit Card Validator & Infos
 - [X]  Graphic interface
-- More soon...
+
+## Futur Features
+
+- Better graphic interface
+- OSINT tools
+- Parsing combo list
+- More... (Envoyez des messages pour demander de nouvelles fonctionnalitées)
 
 
 ## Screenshots
@@ -37,4 +43,4 @@ Pour l'installer voici les étapes suivantes :
 
 ## Feedback
 
-Si vous avez des idées de fonctionnalité que je peux ajouter contactez moi sur discord !
+Si vous avez des idées de fonctionnalitées que je peux ajouter contactez moi sur discord !
