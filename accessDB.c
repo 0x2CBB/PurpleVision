@@ -30,7 +30,7 @@ int main(int argc, char* argv[]) {
       fprintf(stderr, "[ERREUR] - Impossible d'ouvrir la base de données : %s\n", sqlite3_errmsg(db));
       return(0);
    } else {
-      fprintf(stderr, "[INFO] - Base de données ouverte avec succès");
+      fprintf(stderr, "[INFO] - Base de données ouverte avec succès\n\n");
    }
    
 ////////////// Extraction des données //////////////
@@ -45,7 +45,7 @@ int main(int argc, char* argv[]) {
       fprintf(stderr, "[ERROR] - SQL : %s\n", zErrMsg);
       sqlite3_free(zErrMsg);
    } else {
-      fprintf(stdout, "\n [INFO] - Fin des données.");
+      fprintf(stdout, "\n[INFO] - Fin des données.\n\n");
    };
    sqlite3_close(db);
    return 0;
