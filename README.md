@@ -27,11 +27,12 @@ Pour l'installer voici les étapes suivantes :
 - [X]  BruteForce (MD2/4/5, SHA-256, Base64, SHA1, SHA-224, SHA-512, Cisco7...)
 - [X]  Credit Card Validator & Infos
 - [X]  Graphic interface
-- [X]  DB Reader
+- [X]  DB Dumper
 
 ## Futur Features
 
 - Better graphic interface
+- More options for DB Dumper
 - OSINT tools
 - Parsing combo list
 - More... (Envoyez des messages pour demander de nouvelles fonctionnalitées)
